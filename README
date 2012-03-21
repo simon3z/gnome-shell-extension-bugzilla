@@ -1,0 +1,11 @@
+Building
+========
+
+ $ ./autogen.sh
+ $ ./configure
+ $ make
+
+Install
+=======
+
+ $ make install

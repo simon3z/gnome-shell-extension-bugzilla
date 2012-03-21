@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.2"],
+    "uuid": "bugzilla@bytenix.com",
+    "name": "Bugzilla",
+    "description": "Bugzilla Extension",
+    "url": "http://github.com/simon3z/gnome-shell-extension-bugzilla"
+}
